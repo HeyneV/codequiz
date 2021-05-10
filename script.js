@@ -104,10 +104,7 @@ questionDiv.addEventListener('click', function () {
 
 });
 
-function choices(event) {
-    event.preventDefault();
 
-}
 // Timer that counts down from 75 seconds
 function countdown() {
     timeLeft = timeLeft - 1
