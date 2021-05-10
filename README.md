@@ -1,5 +1,10 @@
 # codequiz
 
+![image](https://user-images.githubusercontent.com/81537925/117596413-57c4ae80-b111-11eb-8eae-8570a0185c57.png)
+
+![image](https://user-images.githubusercontent.com/81537925/117596456-6b701500-b111-11eb-8b96-54c3b62d6cee.png)
+
+
 
 https://heynev.github.io/codequiz/
 
