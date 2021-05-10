@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+
+.question-div { 
+    font-size: 32px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.hide {
+    display: none;
+}
+
+button {
+    padding: 10px;
+    margin: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: purple;
+    color: white;
+  }
+  
